@@ -4,6 +4,7 @@ The backend utilizes Retrieval-Augmented Generation (RAG) principles, ensuring a
 For the user interface, Streamlit has been employed to create an intuitive and user-friendly experience.
 
 ![pic1](https://github.com/EyaChenenaoui/QA-over-PDF-file/blob/main/images/pdf.png)
+![pic2](https://github.com/EyaChenenaoui/QA-over-PDF-file/blob/main/images/qa.png)
 
 
 
